@@ -1,0 +1,9 @@
+add CHANGELOG.md
+add config.ini
+add config.json
+add LICENSE.txt
+add mod.ini
+add restored-states.dll
+add vendor-licenses/Eigen.txt
+add vendor-licenses/mINI.txt
+add raw/shadow_fixes.pac
