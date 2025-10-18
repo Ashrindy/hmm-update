@@ -1,0 +1,6 @@
+add CHANGELOG.md
+add LICENSE.txt
+add animated-titlescreen.dll
+add mod.ini
+add raw/titlemovie.rfl
+add vendor-licenses/Eigen.txt
