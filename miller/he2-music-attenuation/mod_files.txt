@@ -1,0 +1,15 @@
+add CHANGELOG.md
+add LICENSE.txt
+add he2-music-attenuation.dll
+add mod.ini
+add raw/text/text_musicatt.pac
+add raw/text/text_musicatt_de.pac
+add raw/text/text_musicatt_en.pac
+add raw/text/text_musicatt_es.pac
+add raw/text/text_musicatt_fr.pac
+add raw/text/text_musicatt_it.pac
+add raw/text/text_musicatt_ja.pac
+add raw/text/text_musicatt_pl.pac
+add raw/text/text_musicatt_pt.pac
+add raw/text/text_musicatt_ru.pac
+add vendor-licenses/Eigen.txt

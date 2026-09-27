@@ -1,0 +1,13 @@
+add CHANGELOG.md
+add LICENSE.txt
+add disk/wars_patch/text/text_musicatt_de.pac
+add disk/wars_patch/text/text_musicatt_en.pac
+add disk/wars_patch/text/text_musicatt_es.pac
+add disk/wars_patch/text/text_musicatt_fr.pac
+add disk/wars_patch/text/text_musicatt_it.pac
+add disk/wars_patch/text/text_musicatt_ja.pac
+add disk/wars_patch/text/text_musicatt_pl.pac
+add disk/wars_patch/text/text_musicatt_ru.pac
+add he2-music-attenuation.dll
+add mod.ini
+add vendor-licenses/Eigen.txt
